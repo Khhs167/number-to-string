@@ -1,7 +1,8 @@
-# python-package
-Description
+# number-to-string
+Number to string is a simple tool to generate strings from ints.
 
 # Installation/usage
-How do i use this?
-
-*license*
+Installation coming soon...
+```py
+convert(int) # converts int into a string
+```
