@@ -7,6 +7,12 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+dist/*
+numtostring.egg-info/*
+.vscode/*
+/LICENSE
+/README.md
+*.md
 .Python
 build/
 develop-eggs/
