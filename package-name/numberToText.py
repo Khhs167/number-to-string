@@ -62,5 +62,3 @@ def splitNumber(number):
     for num in list(str(number)): #We get each digit, in the shape of a string
         out.append(int(num)) #We convert it back, and adds it to the output
     return out #We give back the output
-
-print(convert(222))
