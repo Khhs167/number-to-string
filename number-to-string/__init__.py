@@ -1,1 +1,1 @@
-import numberToText
+from .numberToText import convert
